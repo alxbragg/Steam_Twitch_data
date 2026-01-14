@@ -38,6 +38,18 @@ This project examines the relationship between Steam game market saturation, use
 - Across both reviews and watch time, a small subset of games (e.g., Counter-Strike 2, major live-service titles) account for a large share of total engagement. This “winner-take-most” pattern highlights a highly competitive environment where new releases must compete not just within their genre, but against entrenched market leaders.
   - Some of these titles, such as Counter-Strike 2 have massive, well established e-sports scene (competitive play).
 
+**Review Sentiment Trends Scale with Release Volume**
+- Genres experiencing rapid growth in the number of releases also show sharp increases in both positive and negative reviews over time. This indicates that higher production volume increases visibility and engagement, but also amplifies criticism, raising the reputational risk for developers entering saturated genres.
+
+**Twitch Watch Time Favors Multiplayer and Replayable Games**
+- Genres such as Action, Free-to-Play, and Massively Multiplayer generate substantially higher watch time relative to their release counts. This suggests that games with strong social, competitive, or replayable elements are more likely to sustain long-term viewer interest compared to single-session or narrative-focused titles.
+
+**Trending Momentum Is Volatile and Short-Lived**
+- Trending rankings show frequent position changes over short time windows, indicating that visibility spikes are often temporary. Games that maintain high rank over multiple weeks tend to have ongoing content updates or strong community engagement, reinforcing the importance of post-launch support.
+
+**Watch Time and Play Time Are Related but Not Linear**
+- While higher watch time generally aligns with increased play time, the relationship is uneven. Some games attract large audiences without equivalent play activity, implying they function more as spectator experiences, while others show strong player engagement but limited streaming appeal.
+
 ## Future Extensions
 
 ## Limitations & Assumptions
