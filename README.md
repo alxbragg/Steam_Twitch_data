@@ -1,3 +1,12 @@
-# Steam_Twitch_data
-Analysis on steam user reviews, how competitive the market is, and which steam games are streamed the most.
+# Steam & Twitch Market Saturation, Reviews, and Competitive Dynamics
+## Project Overview
+## Data Sources
+## Dashboard Pages
+## Key Insights
+## Analytical Questions Explored
+## Future Extensions
+## Limitations & Assumptions
+## Tools & Skills Demonstrated
+
+
 
