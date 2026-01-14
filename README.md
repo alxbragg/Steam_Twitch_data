@@ -14,6 +14,26 @@ This project examines the relationship between Steam game market saturation, use
 </p>
 
 ## Dashboard Pages
+<p align="center">
+  <img src="images/stp1.png" width="45%" />
+  <img src="images/stp2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/stp3.png" width="45%" />
+  <img src="images/stp4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/stp5.png" width="45%" />
+  <img src="images/stp6.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2026-01-14 180545.png" width="45%" />
+  <img src="images/Screenshot 2026-01-14 180626.png" width="45%" />
+</p>
+
 
 ## Key Insights
 
