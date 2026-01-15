@@ -30,6 +30,11 @@ This project examines the relationship between Steam game market saturation, use
 </p>
 
 
+### Tools Used
+Python 
+Power BI
+Excel
+
 ## Key Insights
 **Market Saturation Does Not Guarantee Engagement**
 - Action and Indie genres dominate total review volume on Steam, indicating heavy market saturation, but this does not consistently translate into high Twitch watch time. Several highly reviewed games show relatively low viewer engagement, suggesting that player adoption and spectator interest follow different dynamics.
