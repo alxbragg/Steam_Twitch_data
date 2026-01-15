@@ -18,21 +18,6 @@ This project examines the relationship between Steam game market saturation, use
   <img src="images/Screenshot 2026-01-14 180626.png" width="45%" />
 </p>
 
-## Dashboard Pages
-<p align="center">
-  <img src="images/stp1.png" width="45%" />
-  <img src="images/stp2.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="images/stp3.png" width="45%" />
-  <img src="images/stp4.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="images/stp5.png" width="45%" />
-  <img src="images/stp6.png" width="45%" />
-</p>
 
 
 ## Key Insights
@@ -54,6 +39,24 @@ This project examines the relationship between Steam game market saturation, use
 
 **Watch Time and Play Time Are Related but Not Linear**
 - While higher watch time generally aligns with increased play time, the relationship is uneven. Some games attract large audiences without equivalent play activity, implying they function more as spectator experiences, while others show strong player engagement but limited streaming appeal.
+
+
+## Dashboard Pages
+<p align="center">
+  <img src="images/stp1.png" width="45%" />
+  <img src="images/stp2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/stp3.png" width="45%" />
+  <img src="images/stp4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/stp5.png" width="45%" />
+  <img src="images/stp6.png" width="45%" />
+</p>
+
 
 ## Recommendations
 **Prioritize Differentiation in Saturated Genres**
