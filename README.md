@@ -50,7 +50,18 @@ This project examines the relationship between Steam game market saturation, use
 **Watch Time and Play Time Are Related but Not Linear**
 - While higher watch time generally aligns with increased play time, the relationship is uneven. Some games attract large audiences without equivalent play activity, implying they function more as spectator experiences, while others show strong player engagement but limited streaming appeal.
 
-## Future Extensions
+## Recommendations
+**Prioritize Differentiation in Saturated Genres**
+- Developers entering highly saturated genres such as Action or Indie should focus on clear mechanical, stylistic, or community-driven differentiation rather than competing on volume alone. High review density increases competition and visibility risk, making uniqueness a critical factor for discoverability.
+
+**Use Review Sentiment as a Risk Indicator, Not Just a Score**
+- Rising negative review volume in high-output genres suggests increased reputational risk. Monitoring review trends alongside release density can help developers anticipate backlash and prioritize polish, bug fixes, or scope control prior to launch.
+
+**Treat Trending Status as a Short-Term Amplifier, Not a Guarantee**
+- Trending visibility should be used as a launch and awareness accelerator rather than a long-term growth assumption.
+- Planning for player retention is key, and teams need to strategize for post-launch support.
+  - Implement content that drives community events.
+  - Content updates need to be frequent.
 
 ## Limitations & Assumptions
 - Genre categorization was non-trivial because games often have multiple genre tags, leading to multiple rows per game. As a result, genre-level analysis reflects tag presence rather than mutually exclusive genre classification.
