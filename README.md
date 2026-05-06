@@ -6,6 +6,7 @@ This project examines the relationship between Steam game market saturation, use
 - Python 
 - Power BI
 - Excel
+- SQL
 
 ## Data Model
 <p align="center">
